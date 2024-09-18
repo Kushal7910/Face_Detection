@@ -35,5 +35,3 @@ This project is particularly useful for developers looking to build face-based a
 With these powerful tools integrated into a single pipeline, the project provides an end-to-end solution for face detection, recognition, and querying.
 
 ---
-
-This enhanced introduction explains the "why" and "how" of the project in greater depth, giving users a clear idea of its purpose, functionality, and technical components.
