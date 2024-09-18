@@ -1,10 +1,7 @@
-##Face Detection using with Python, OpenCV, OpenAI CLIP model and PostgreSQL
 
+## Face Detection using with Python, OpenCV, OpenAI CLIP model and PostgreSQL
 
-
-## Overview
-
-Face detection is a crucial task in many modern computer vision applications, ranging from security systems and authentication to content management and user interaction. This project aims to go beyond basic face detection by incorporating advanced embedding extraction techniques for deeper analysis and functionality.
+This project demonstrates face detection using Python and OpenCV, with an integration of OpenAI's CLIP model for extracting embeddings from detected faces and PostgreSQL for storing and querying face data.
 
 ### What does this project do?
 
