@@ -1,4 +1,4 @@
-#Face Detection using with Python, OpenCV, OpenAI CLIP model and PostgreSQL
+Face Detection using with Python, OpenCV, OpenAI CLIP model and PostgreSQL
 
 
 
